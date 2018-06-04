@@ -1,6 +1,9 @@
+# Créditos
 
-Autor: Daniel Pons Betrián \(dpons en educa aragon es\)
+## Autoría
 
-Junio 2017
+* {{ book.author }}
+
+___
 
 {% include "git+https://github.com/catedu/faq-aularagon.git/imagenes_creditos.md" %}

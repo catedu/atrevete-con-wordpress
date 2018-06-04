@@ -1,0 +1,20 @@
+{
+    "plugins": ["youtube", "accordion", "image-captions", "styled-blockquotes", "localized-footer"],
+    "language": "es",
+    "variables": {
+        "title": "Atrévete con Wordpress",
+        "author": "Daniel Pons Betrián (dpons en educa aragon es) Junio 2017",
+        "collaborators": [
+            { "name": "", "edited": "" }
+        ]
+    },
+    "pluginsConfig": {
+        "image-captions": {
+            "caption": "Imagen - _CAPTION_"
+        },
+        "localized-footer": {
+            "hline": true,
+            "filename": "./FOOTER.md"
+        }
+    }
+}

@@ -58,5 +58,5 @@
 ## Módulo 5. Anexos
 
 * [Referencias](referencias.md)
-* [Licencia](licencia.md)
+* [Créditos](Creditos.md)
 
