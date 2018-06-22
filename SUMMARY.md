@@ -45,7 +45,7 @@
   * [UpdraftPlus](seguridad-en-wordpress/updraftplus.md)
   * [UpdraftPlus con Dropbox y Google Drive](seguridad-en-wordpress/updraftplus-con-dropbox-y-google-drive.md)
 
-## Módulo 4. Anexos
+## Anexos
 
 * [Referencias](referencias.md)
 * [Créditos](Creditos.md)
