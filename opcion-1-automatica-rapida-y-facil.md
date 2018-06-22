@@ -1,4 +1,4 @@
-#### OPCION 1 - AUTOMÁTICA \(rápida y fácil\)
+#### Instalar Wordpress en 000Webhost de forma automática
 
 Esta es la opción 1 para instalar Wordpress en 000webhost de forma automática, rápida y fácil:
 
