@@ -19,14 +19,13 @@ Una vez que hayas confirmado el emal, en el sitio web [https://es.000webhost.com
 ![](/assets/hosting4-es-es.png)
 
 Para crear el sitio Wordpress, hay dos opciones: una opción automática, que resulta rápida y fácil pero que sólo está disponible en algunos servidores de alojamiento. Y otra opción manual, más lenta y costosa, pero más estándar, ya que los servidores de alojamiento web ofrecerán siempre una forma similar para instalar Wordpress.  
-**Se recomienda optar por la opción 1 automática, por resultar rápida y fácil.**
+**Se recomienda optar por la opción automática, por resultar rápida y fácil.**
 
-_Adelanto el siguiente comentario una vez que hayas creado tu Wordpress: 000webhost.com ofrece servicio gratuito, por ello, durante 1h al día tu sitio web estará inactivo. Podráss elegir la hora de inactividad que prefieras en la siguiente opción:      
+_Adelanto el siguiente comentario una vez que hayas creado tu Wordpress: 000webhost.com ofrece servicio gratuito, por ello, durante 1h al día tu sitio web estará inactivo. Podráss elegir la hora de inactividad que prefieras en la siguiente opción:        
 _
 
 ```
 Menú de usuario - Mis sitios web - Ajustes (del sitio web) - General - Website sleeping time frame
-
 ```
 
 #### ¿Y si quiero mejor servicio?

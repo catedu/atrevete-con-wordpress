@@ -1,6 +1,6 @@
-#### OPCION 2 - MANUAL \(más lenta y costosa\)
+## Instalar Wordpress en 000Webhost de forma manual
 
-Esta es la opción 2 para instalar Wordpress en 000webhost de forma manual. Esta opción es más laboriosa, pero con mayor control y aprendizaje sobre la instalación de un sitio Wordpress desde cero. Es recomendado utilizar la opción 1, ya que todos los pasos de instalación manual no tienen nada que ver con el manejo de un Wordpress, sino más con la administración de un sitio web. Los pasos a realizar en una instalación manual son similares en caso de instalar Wordpress manualmente en otro servidor. A modo de visión general, y teniendo en cuenta que este proceso puede realizarse de diversas formas, los pasos a realizar son:
+Esta es la opción para instalar Wordpress en 000webhost de forma manual. Esta opción es más laboriosa, pero con mayor control y aprendizaje sobre la instalación de un sitio Wordpress desde cero. Es recomendado utilizar la opción automática, ya que todos los pasos de instalación manual no tienen nada que ver con el manejo de un Wordpress, sino más con la administración de un sitio web. Los pasos a realizar en una instalación manual son similares en caso de instalar Wordpress manualmente en otro servidor. A modo de visión general, y teniendo en cuenta que este proceso puede realizarse de diversas formas, los pasos a realizar son:
 
 1. Crear una base de datos en el servidor de hosting
 2. Descargar y descomprimir el código fuente de Wordpress en nuestro PC
@@ -118,7 +118,7 @@ Habrá que modificar en el archivo el nombre de la Base de Datos, el usuario de 
 
 `define('DB_PASSWORD', ' passwordbd');`
 
-**¡POR FIN!              
+**¡POR FIN!                    
 **
 
 Si hemos realizado todo correctamente, ahora ya podemos acceder a la dirección web de nuestro sitio, que en el caso de este ejemplo sería [http://cursowpaularagon.000webhostapp.com](http://cursowpaularagon.000webhostapp.com) y veremos la página de instalación de Wordpress, en la cual vamos a poner el título principal de nuestro blog \(más tarde podremos cambiarlo\) y a crear un usuario ADMINISTRADOR de nuestro sitio web, con una contraseña y nuestro email. Evitaremos que el nombre de usuario sea admin, ya que es un problema de seguridad.

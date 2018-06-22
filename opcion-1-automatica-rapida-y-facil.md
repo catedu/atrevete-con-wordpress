@@ -1,6 +1,6 @@
-#### Instalar Wordpress en 000Webhost de forma automática
+## Instalar Wordpress en 000Webhost de forma automática
 
-Esta es la opción 1 para instalar Wordpress en 000webhost de forma automática, rápida y fácil:
+Esta es la opción para instalar Wordpress en 000webhost de forma automática, rápida y fácil:
 
 Clic en el botón de la barra superior “Crear sitio web” y clic en "Instalar ahora" en “Build Wordpress Website”
 
