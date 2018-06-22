@@ -31,11 +31,6 @@
   * [Plugins de Wordpress de CATEDU](plugins/plugins-de-wordpress-de-catedu.md)
   * [Jetpack](plugins/jetpack.md)
   * [Redes sociales](plugins/redes-sociales.md)
-  * [Shortcodes](plugins/shortcodes.md)
-  * [Más funcionalidad con plugins](plugins/mas-funcionalidad-con-plugins.md)
-  * [Restringir zona de publicación a usuarios](plugins/restringir-zona-de-publicacion-a-usuarios.md)
-  * [Google Analytics](plugins/google-analytics.md)
-  * [Wordpress y Google Drive](plugins/wordpress-y-google-drive.md)
 
 ## Módulo 3. Seguridad
 
@@ -47,15 +42,8 @@
   * [Backup integrado de Wordpress](seguridad-en-wordpress/backup-integrado-de-wordpress.md)
   * [UpdraftPlus](seguridad-en-wordpress/updraftplus.md)
   * [UpdraftPlus con Dropbox y Google Drive](seguridad-en-wordpress/updraftplus-con-dropbox-y-google-drive.md)
-  * [BackWPup](seguridad-en-wordpress/backwpup.md)
 
-## Módulo 4. Ampliación con HTML y CSS
-
-* [Edición visual avanzada con HTML y CSS](edicion-visual-avanzada-html-y-css/edicion-visual-avanzada-html-y-css.md)
-  * [Añadir CSS en el Tema](edicion-visual-avanzada-html-y-css/anadir-css-en-el-tema.md)
-  * [Temas hijos](edicion-visual-avanzada-html-y-css/temas-hijos.md)
-
-## Módulo 5. Anexos
+## Módulo 4. Anexos
 
 * [Referencias](referencias.md)
 * [Créditos](Creditos.md)
