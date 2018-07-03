@@ -20,7 +20,7 @@ Y sobre todo, hay que tener **copia de seguridad de todo**. _Si de algo no tiene
 
 ## Medidas de seguridad esenciales para Wordpress
 
-* No tener un usuario llamado **admin** ni un usuario llamado igual que nuestro Wordpress.
+* No hay que tener un usuario llamado **admin,** ni un usuario llamado igual que nuestro Wordpress, ya que será el primer usuario que intenten probar para hackear el Wordpress. Otros nombres no recomendados: administrador, wp, wordpress, etc.
 * Ocultar los nombres de los usuarios haciendo que cada usuario tenga un "alias" para mostrar diferente de su "nombre de usuario", lo cual se configura en el perfil de cada usuario.
 * Instalar y configurar **Wordfence** \(es un plugin completo: escaner y cortafuegos\), para realizar escaneos de posibles ataques \(actúa como medida de detección y limpieza de malware\) y para bloquear conexiones detectadas como maliciosas \(actúa como cortafuegos\).
 * El plugin **Captcha by Bestwebsoft **añade un captcha en la página de login. Un captcha solicita que se introduzca letras o números, con interacción con el usuario, para evitar múltiples intentos de acceso automáticos. Tiene opción de bloqueo de acceso ante errores de login, lo mismo que en Wordfence: Se pueden tener las dos en paralelo, y se aplicará el bloqueo que se dé en primer caso.
