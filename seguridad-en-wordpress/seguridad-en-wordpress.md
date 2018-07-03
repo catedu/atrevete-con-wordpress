@@ -23,10 +23,10 @@ Y sobre todo, hay que tener **copia de seguridad de todo**. _Si de algo no tiene
 * No tener un usuario llamado **admin** ni un usuario llamado igual que nuestro Wordpress.
 * Ocultar los nombres de los usuarios haciendo que cada usuario tenga un "alias" para mostrar diferente de su "nombre de usuario", lo cual se configura en el perfil de cada usuario.
 * Instalar y configurar **Wordfence** \(es un plugin completo: escaner y cortafuegos\), para realizar escaneos de posibles ataques \(actúa como medida de detección y limpieza de malware\) y para bloquear conexiones detectadas como maliciosas \(actúa como cortafuegos\).
-
 * El plugin **Captcha by Bestwebsoft **añade un captcha en la página de login. Un captcha solicita que se introduzca letras o números, con interacción con el usuario, para evitar múltiples intentos de acceso automáticos. Tiene opción de bloqueo de acceso ante errores de login, lo mismo que en Wordfence: Se pueden tener las dos en paralelo, y se aplicará el bloqueo que se dé en primer caso.
-
 * Realizar **copias de seguridad **del Wordpress con UpdraftPlus y guardarlas, por ejemplo en Dropbox.
+
+* El plugin **Really Simple SSL** es MUY interesante, ya que con él se puede activar la conexión segura **https** para tu Wordpress. Si el servidor de alojamiento no tiene conexión segura, la dirección de acceso a tu Wordpress será del estilo [http://nombredelwordpress.es](http://nombredelwordpress.es), y los navegadores marcarán tu sitio Wordpress como un sitio no confiable. En tal caso será muy recomendable que instales y actives el plugin Really Simple SSL, y la dirección de acceso a tu Wordpress será del estilo [https://nombredelwordpress.es](https://nombredelwordpress.es) y los navegadores marcarán tu sitio Wordpress como un sitio confiable.
 
 #### Recomendable:
 
