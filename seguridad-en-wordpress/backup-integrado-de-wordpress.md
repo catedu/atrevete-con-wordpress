@@ -27,5 +27,7 @@ Acceso en: Escritorio > Herramientas > Importar
 * En el proceso de "importación" las imágenes se copiarán desde el sitio Wordpress antiguo al nuevo sitio Wordpress
 * Es necesario instalar temas y plugins y activar plugins en el sitio Wordpress destino
 
+
+
 **CONCLUSION: **Necesitaremos una herramienta de copia de seguridad más completa: UpdraftPlus o BackWPup, por ejemplo.
 
