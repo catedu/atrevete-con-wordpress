@@ -30,7 +30,7 @@
 
 * [Plugins](plugins/plugins.md)
   * [Instalar y desinstalar plugins](plugins/instalar-y-desinstalar-plugins.md)
-  * [Plugins de Wordpress de CATEDU](plugins/plugins-de-wordpress-de-catedu.md)
+  * [Plugins interesantes](plugins/plugins-de-wordpress-de-catedu.md)
   * [Jetpack](plugins/jetpack.md)
   * [Redes sociales](plugins/redes-sociales.md)
 
