@@ -8,7 +8,7 @@ Esta lista contiene plugins muy interesantes, que sería muy recomendable que es
 
 * **Antivirus**: Es bueno dejar activo este plugin para evitar en la medida de lo posible malware, inyección de código, etc.
 * **UpdraftPlus**: para realizar copias de seguridad del Wordpress.
-* **Captcha by BestWebSoft**: Este plugin pide realizar una operación matemática para entrar al Escritorio de Wordpress, para evitar que hackeen el acceso al Wordpress. Este plugin es configurable. Es MUY importante tener un plugin de este tipo que habilite un captcha, sino es muy posible que tu wordpress acabe hackeado.
+* **Captcha by BestWebSoft**: Este plugin pide realizar una operación matemática para entrar al Escritorio de Wordpress, para evitar que hackeen el acceso al Wordpress. Este plugin es configurable. Es MUY importante tener un plugin de este tipo, es decir que habilite un captcha, sino es muy posible que tu wordpress acabe hackeado.
 * **Cookie Law Info**: Mensaje de aceptación para cumplir con la normativa europea del uso de cookies.
 * **Dropdown Menu Widget**: Permite poner un menú de forma vertical en una barra lateral.
 * **TinyMCE Advanced**: Un editor de texto y HTML para las entradas, para edición más visual y avanzada del texto. Muy interesante para facilitar la escritura de texto en las entradas con botones tipo edición de texto \(negritas, viñetas, alineaciones, etc\)
