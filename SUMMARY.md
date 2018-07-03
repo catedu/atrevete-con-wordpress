@@ -28,7 +28,7 @@
 
 ## Módulo 2. Plugins
 
-* [Plugins](plugins/plugins.md)
+* [Plugins y Widgets](plugins/plugins.md)
   * [Instalar y desinstalar plugins](plugins/instalar-y-desinstalar-plugins.md)
   * [Plugins interesantes](plugins/plugins-de-wordpress-de-catedu.md)
   * [Jetpack](plugins/jetpack.md)
