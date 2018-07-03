@@ -1,5 +1,12 @@
 ## Wordfence
 
+Wordfence tiene dos pilares básicos:
+
+* Escanear el Wordpress en busca de hackeos
+* Activar características para proteger el Wordpress \(llamado firewall\). Es interesante la opción de limitar el tráfico, ya que evitará que se realicen ataques de fuerza bruta contra tu Wordpress.
+
+---
+
 #### ESCANEAR EL WORDPRESS
 
 1º **Wordfence **compara lo que tenemos en nuestro servidor con los repositorios oficiales. **Por ello, primero requiere que tengamos todo actualizado.**
@@ -43,10 +50,6 @@ Acceso en: Wordfence > Firewall > Brute Force Protection
 
 \(\*\) El bloqueo de acceso a Wordpress se realiza por IP, no por nombre de usuario. La IP será la dirección pública del router de conexión a Internet. Es decir, si desde tu casa \(o desde tu centro educativo\) te equivocas repetidas veces al escribir tu nombre de usuario y contraseña, se bloqueará el acceso desde cualquier ordenador de tu casa \(o desde cualquier ordenador de tu centro educativo\).
 
-
-
----
-
 #### LIMITAR TRÁFICO
 
 Podemos visualizar el tráfico que hay en el instante:
@@ -73,6 +76,7 @@ Acceso en: Wordfence > Firewall > Rate Limiting
 * If a crawler's page views exceed: 240 - throttle
 
 * If a crawler's pages not found \(404s\) exceed: 30 - block, para evitar que escaneen tu sitio ante vulnerabilidades
+
 * If a human's page views exceed: 240 - throttle
 * If a human's pages not found \(404s\) exceed: 30 - block
 * If 404s for known vulnerable URLs exceed: 15 - block
