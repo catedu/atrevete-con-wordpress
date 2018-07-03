@@ -2,7 +2,7 @@
 
 Esta lista contiene plugins muy interesantes, que sería muy recomendable que estuvieran activos en un Wordpress:
 
-* **Akismet **\(desactivado\): Plugin que se encarga de controlar el spam de los comentarios. Hay que configurarlo y activarlo. Para ello, tendréis que seguir los pasos que se te indiquen en la página de configuración del plugin y crear una cuenta gratuita en Akismet.
+* **Akismet **\(desactivado\): Plugin que se encarga de controlar el spam de los comentarios. Este plugin utiliza un servicio externo que decide si cada uno de los comentarios es spam o no, y realiza automáticamente el filtrado. Hay que configurarlo y activarlo. Para ello, tendréis que seguir los pasos que se te indiquen en la página de configuración del plugin y crear una cuenta gratuita en Akismet.
 
 > Incluso teniendo configurado adecuadamente las opciones de "Comentarios y Pingbacks" el plugin **Akismet **es una de las mejores soluciones para poder eliminar el spam que se recibe en el Wordpress.
 
