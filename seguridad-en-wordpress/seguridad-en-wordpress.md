@@ -6,8 +6,8 @@ Desde el panel de administración del Wordpress hay que:
 * Tener responsabilidad en la elección e instalación de Plugins y Temas:
   * Instalar sólo plugins que estén registrados en el repositorio oficial de plugins de Worpdress disponible en  [https://es.wordpress.org/plugins/](https://es.wordpress.org/plugins/) 
   * Conviene encarecidamente realizar búsquedas en Internet sobre posibles vulnerabilidades.
-* Instalar y configurar adecuadamente **Plugins de seguridad**.
-* NOTA: En un wordpress de wordpress.com no hay que preocuparse de estos puntos, ya que desde wordpress.com se encargan de mantener actualizado el worpdress y sólo usan plugins validados por ellos.
+* Instalar y configurar adecuadamente varios plugins de seguridad.
+* NOTA: En un Wordpress de wordpress.com no hay que preocuparse de estos puntos, ya que desde wordpress.com se encargan de mantener actualizado el worpdress y sólo usan plugins validados por ellos.
 
 Pero también es necesaria la **involucración **de los usuarios del Wordpress:
 
