@@ -10,7 +10,7 @@ Acceso en: Escritorio > Apariencia > Personalizar
 
 En esta opción de Personalizar se puede acceder desde un sitio centralizado a cambiar el Título del sitio, los colores del fondo del tema visual, el tipo de letra, acceso a la configuración de menús, configuración de los widgets.
 
-En la opción "Portada estática" se puede configurar que la página de inicio de nuestro Wordpress sea una Página que previamente hayamos creado.
+Por defecto, al acceder a la dirección principal del Wordpress se visualizará un extracto de las últimas Entradas que hayamos publicado. Si deseamos cambiar este comportamiento, en la opción "Portada estática" se puede configurar que la página de inicio de nuestro Wordpress sea una Página que hayamos creado previamente.
 
 #### AJUSTES
 
