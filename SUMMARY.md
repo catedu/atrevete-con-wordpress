@@ -18,7 +18,7 @@
   * [Entradas](empezando-con-wordpress/entradas.md)
   * [Páginas](empezando-con-wordpress/paginas.md)
   * [Medios e imágenes](empezando-con-wordpress/medios.md)
-  * [Vídeos embebidos](empezando-con-wordpress/videos-embebidos.md)
+  * [Vídeos y mapas embebidos](empezando-con-wordpress/videos-embebidos.md)
   * [Categorías y Etiquetas](empezando-con-wordpress/categorias-etiquetas.md)
   * [Menús](empezando-con-wordpress/menus.md)
   * [Comentarios y Pingbacks](empezando-con-wordpress/comentarios.md)
