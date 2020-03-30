@@ -10,5 +10,5 @@ Si has creado el Wordpress en wordpress.com y la dirección de acceso a visualiz
 
 Ahí nos pedirá nuestro nombre de usuario y contraseña para entrar al Escritorio de Wordpress, el cual se debería ver de una forma similar a esta:
 
-![](/assets/escritorio.png)
+![](https://catedu.gitbooks.io/atrevete-con-wordpress/content/assets/escritorio.png)
 

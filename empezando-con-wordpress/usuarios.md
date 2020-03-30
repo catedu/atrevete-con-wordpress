@@ -13,7 +13,7 @@ Wordpress permite tener varios usuarios. Los roles \(o perfiles\) de cada usuari
 * Colaborador - Puede escribir y editar sus propias entradas pero no publicarlas.
 * Subscriptor - Solamente puede leer contenidos y editar sus datos de usuario.
 
-![](/assets/usuarios.png)
+![](https://catedu.gitbooks.io/atrevete-con-wordpress/content/assets/usuarios.png)
 
 Opciones sobre usuarios:
 

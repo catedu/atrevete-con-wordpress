@@ -4,19 +4,19 @@
 
 Entra en el siguiente enlace para navegar por una página desarrollada con Wordpress: [http://formacionprofesorado.aragon.es/](http://formacionprofesorado.aragon.es/)
 
-![](/assets/pag web wp 1.png)
+![](https://catedu.gitbooks.io/atrevete-con-wordpress/content/assets/pag web wp 1.png)
 
 No todos los sitios web creados con Wordpress tienen apariencia similar, por ejemplo este sitio web creado con Wordpress: [http://carei.es](http://cifeaab.catedu.es) tiene una apariencia muy diferenciada al anterior.
 
-![](/assets/pag web wp 2.png)
+![](https://catedu.gitbooks.io/atrevete-con-wordpress/content/assets/pag web wp 2.png)
 
 Si entras en la web de CATEDU \([http://catedu.es](http://catedu.es)\) encontrarás un sitio web desarrollado con Joomla, que es otro gestor de contenidos con funcionalidad similar a Wordpress, pero sin estar orientado a la creación de un Blog:
 
-![](/assets/pag web joomla.png)
+![](https://catedu.gitbooks.io/atrevete-con-wordpress/content/assets/pag web joomla.png)
 
 Y a continuación puedes acceder a un blog de Blogger: [http://domingomendez.blogspot.com.es](http://domingomendez.blogspot.com.es)
 
-![](/assets/pag web blogger.png)
+![](https://catedu.gitbooks.io/atrevete-con-wordpress/content/assets/pag web blogger.png)
 
 **¿Por qué Wordpress?: **Multitud de creadores de sitios web han decidido utilizar Wordpress para crear un blog o sitio web principalmente debido a su simplicidad de uso. Sus posibilidades de personalización también son un factor clave, tanto para modificar la apariencia visual así como para ampliar la funcionalidad. Además es software libre lo cual facilita enormemente su distribución
 

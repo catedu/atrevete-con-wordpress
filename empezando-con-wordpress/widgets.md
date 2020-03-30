@@ -8,7 +8,7 @@ Los Widgets son plugins o partes de plugins que se visualizan en las columnas la
 
 **EJERCICIO:** Poner un Widget con un Calendario en la barra lateral.
 
-![](/assets/widgets.png)
+![](https://catedu.gitbooks.io/atrevete-con-wordpress/content/assets/widgets.png)
 
 **EJERCICIO: **Poner una nube de etiquetas con el Widget que viene por defecto. Hay widgets con nubes de etiquetas mejoradas.
 
@@ -24,13 +24,13 @@ Es frecuente querer poner una imagen con un texto y un enlace \(por ejemplo refe
 
 * Editar texto de forma Visual utilizando el editor de entradas, añadir una imagen en una entrada \(botón "Añadir objeto"\),  y clic en la imagen para seleccionarla y posteriormente crear un enlace en la imagen.
 
-![](/assets/crear-enlace-en-imagen.png)
+![](https://catedu.gitbooks.io/atrevete-con-wordpress/content/assets/crear-enlace-en-imagen.png)
 
 * Cambiar a modo HTML en el editor de entradas, identificar el HTML incrustado, seleccionarlo y **copiarlo **al Portapapeles \(Ctrl+C\)
 
-![](/assets/crear-enlace-en-imagen-html.png)
+![](https://catedu.gitbooks.io/atrevete-con-wordpress/content/assets/crear-enlace-en-imagen-html.png)
 
 * Añadir el widget "Texto" en la zona de Widgets de la Barra lateral, acceder a editar el Widget en modo "Texto", y **pegar **ahí el HTML \(Ctrl+C\). Por último clic en Guardar.
 
-![](/assets/crear-enlace-en-imagen-widget.png)
+![](https://catedu.gitbooks.io/atrevete-con-wordpress/content/assets/crear-enlace-en-imagen-widget.png)
 

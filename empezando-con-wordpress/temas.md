@@ -8,7 +8,7 @@ Los Temas constituyen la plantilla de visualización de un Wordpress: Cada tema 
 
 En `Escritorio > Apariencia > Temas`, se podrá activar un tema de entre los temas disponibles dándole al botón "Activar". Una vez activado un tema, se puede acceder a sus opciones de modificación de la apariencia del tema con el botón "Personalizar".
 
-![](/assets/temas.png)
+![](https://catedu.gitbooks.io/atrevete-con-wordpress/content/assets/temas.png)
 
 **IMPORTANTE:** Reomendable sólo instalar temas desde dentro del Wordpress, utilizando el Repositorio oficial de wordpress.org. Algunos posibles temas visuales:
 

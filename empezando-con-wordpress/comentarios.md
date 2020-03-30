@@ -32,7 +32,7 @@ Un pingback consiste en que, si en una Entrada de tu blog vas a añadir un enlac
 1. Edita y configura tu entrada de "Excursión a Dinópolis" para que "Permita trackbacks y pingbacks en esta página" \(para poder hacerlo acuerda que tienes que ir a "Opciones de pantalla &gt; Comentarios"\).
 2. Escribe una Entrada sobre un tema extraescolar cualquiera, y antes de Publicarla, configura que se envíe un Pingback a la dirección web de la Entrada de "Excursión a Dinópolis" del blog de un compañero del curso.
 
-![](/assets/pingback.png)
+![](https://catedu.gitbooks.io/atrevete-con-wordpress/content/assets/pingback.png)
 
 **Trackbacks: **Es lo mismo que Pingbacks pero usa otra tecnología menos segura contra el spam. Wordpress por defecto utilizará Pingbacks, pero usará Trackback si estás enlazando tu blog con otros sistemas antiguos de blogging.
 

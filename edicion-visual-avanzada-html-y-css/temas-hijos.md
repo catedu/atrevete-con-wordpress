@@ -8,7 +8,7 @@ Siguiendo el **ejemplo práctico **del apartado anterior consistente en modifica
 
 2º subir el archivo style.css a la carpeta `public_html > wp-content > themes > generatepress-hijo > style.css`  con este contenido, el cual ha sido extraído en el apartado anterior cambiando en vivo el CSS en el navegador:
 
-![](/assets/generatepress-hijo.png)
+![](https://catedu.gitbooks.io/atrevete-con-wordpress/content/assets/generatepress-hijo.png)
 
 Líneas importantes:
 
@@ -21,7 +21,7 @@ Líneas importantes:
 
 
 
-En la siguiente imagen se ve dónde está ubicado el archivo style.css del tema padre.![](/assets/identificar-carpeta-tema.png)
+En la siguiente imagen se ve dónde está ubicado el archivo style.css del tema padre.![](https://catedu.gitbooks.io/atrevete-con-wordpress/content/assets/identificar-carpeta-tema.png)
 
 Referencia: [https://www.webempresa.com/blog/crear-temas-hijo-child-themes-en-wordpress.html](https://www.webempresa.com/blog/crear-temas-hijo-child-themes-en-wordpress.html)
 

@@ -8,7 +8,7 @@ Acceso en: Escritorio > Entradas > Añadir nueva
 
 **EJERCICIO: **En el Escritorio de Wordpress, crea una primera Entrada y llámala "Bienvenido a mi blog" \(no pongas las comillas cuando escribas el título a la entrada\).
 
-![](/assets/nueva_entrada.png)
+![](https://catedu.gitbooks.io/atrevete-con-wordpress/content/assets/nueva_entrada.png)
 
 ---
 
@@ -24,9 +24,9 @@ En la página de edición de una entrada existen múltiples opciones, a destacar
 
 **PRIMER TRUCO:** clic en "Opciones de pantalla" para ver más opciones en un panel que se despliega desde arriba. Ahí se puede activar la opción "Slug", que traducido sería el nombre identificativo de la página.
 
-![](/assets/editar_entrada_blog.png)
+![](https://catedu.gitbooks.io/atrevete-con-wordpress/content/assets/editar_entrada_blog.png)
 
-**OTRO TRUCO:** El botón "leer más"  ![](/assets/leer-mas.png) \(es un botón específico de Wordpress\) añade un "_marcador_" en el texto de la entrada que hace que cuando se visualice la lista de entradas, sólo se visualice el texto inicial de la entrada hasta el "_marcador_", y si se quiere leer toda la entrada, el lector tendrá que hacer clic en el enlace "leer más...". Este botón no funciona con todas las plantillas de Wordpress. Aquí hay una web donde explica paso a paso cómo utilizar este botón: [https://es.wikihow.com/agregar-la-opci%C3%B3n-%22leer-m%C3%A1s%22-en-Wordpress](https://es.wikihow.com/agregar-la-opci%C3%B3n-%22leer-m%C3%A1s%22-en-Wordpress)
+**OTRO TRUCO:** El botón "leer más"  ![](https://catedu.gitbooks.io/atrevete-con-wordpress/content/assets/leer-mas.png) \(es un botón específico de Wordpress\) añade un "_marcador_" en el texto de la entrada que hace que cuando se visualice la lista de entradas, sólo se visualice el texto inicial de la entrada hasta el "_marcador_", y si se quiere leer toda la entrada, el lector tendrá que hacer clic en el enlace "leer más...". Este botón no funciona con todas las plantillas de Wordpress. Aquí hay una web donde explica paso a paso cómo utilizar este botón: [https://es.wikihow.com/agregar-la-opci%C3%B3n-%22leer-m%C3%A1s%22-en-Wordpress](https://es.wikihow.com/agregar-la-opci%C3%B3n-%22leer-m%C3%A1s%22-en-Wordpress)
 
 ---
 
@@ -40,7 +40,7 @@ El administrador de un Wordpress debe tener en cuenta, entre otros, estos criter
 
 **EJERCICIO:** Añade un enlace a otra web \([http://www.educaragon.org](http://www.educaragon.org)\) dentro del contenido de la entrada "Bienvenida".
 
-![](/assets/crear-enlace.png)
+![](https://catedu.gitbooks.io/atrevete-con-wordpress/content/assets/crear-enlace.png)
 
 **EJERCICIO: **Añade una segunda entrada: llámala "Excursión a Dinópolis".
 
