@@ -1,0 +1,36 @@
+## Widgets
+
+```
+Acceso en: Escritorio > Apariencia > Widgets
+```
+
+Los Widgets son plugins o partes de plugins que se visualizan en las columnas laterales o zonas del pie de página.
+
+**EJERCICIO:** Poner un Widget con un Calendario en la barra lateral.
+
+![](https://catedu.gitbooks.io/atrevete-con-wordpress/content/assets/widgets.png)
+
+**EJERCICIO: **Poner una nube de etiquetas con el Widget que viene por defecto. Hay widgets con nubes de etiquetas mejoradas.
+
+**EJERCICIO:** Poner un Widget para mostrar la jerarquía de Categorías. Conclusión: al final es mejor un menú para clasificar.
+
+**NOTA: **Si tienes un Wordpress en wordpress.com podrás observar la gran cantidad de widgets disponibles que ya hay instalados para ser usados directamente.
+
+---
+
+#### EJERCICIO: imagen lateral con enlace
+
+Es frecuente querer poner una imagen con un texto y un enlace \(por ejemplo referenciando a [http://www.educaragon.org\](http://www.educaragon.org%29%29 en un Widget de Texto en el lateral %28o en la zona de widgets del footer\). Este ejercicio propone que añadas una imagen que enlace a una Web en una barra de Widgets de tu Wordpress . Para ello hay que realizar lo siguiente:
+
+* Editar texto de forma Visual utilizando el editor de entradas, añadir una imagen en una entrada \(botón "Añadir objeto"\),  y clic en la imagen para seleccionarla y posteriormente crear un enlace en la imagen.
+
+![](https://catedu.gitbooks.io/atrevete-con-wordpress/content/assets/crear-enlace-en-imagen.png)
+
+* Cambiar a modo HTML en el editor de entradas, identificar el HTML incrustado, seleccionarlo y **copiarlo **al Portapapeles \(Ctrl+C\)
+
+![](https://catedu.gitbooks.io/atrevete-con-wordpress/content/assets/crear-enlace-en-imagen-html.png)
+
+* Añadir el widget "Texto" en la zona de Widgets de la Barra lateral, acceder a editar el Widget en modo "Texto", y **pegar **ahí el HTML \(Ctrl+C\). Por último clic en Guardar.
+
+![](https://catedu.gitbooks.io/atrevete-con-wordpress/content/assets/crear-enlace-en-imagen-widget.png)
+
