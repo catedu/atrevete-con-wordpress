@@ -6,7 +6,7 @@ Acceso en: Escritorio > Plugins
 
 **EJERCICIO: **Instala el plugin "**TablePress**" en tu blog y utilizalo para crear una tabla en una Entrada. Para ello lo realizaremos de la siguiente forma:
 
-![](https://catedu.gitbooks.io/atrevete-con-wordpress/content/assets/anadir-plugin-1.png)
+![](https://catedu.github.io/atrevete-con-wordpress/assets/anadir-plugin-1.png)
 
 Ecribir en la zona de Palabra clave el nombre del plugin a instalar, en este caso Tablepress. En la zona de instalación de plugins aparece información sobre el plugin muy interesante a tener en cuenta antes de instalarlo:
 
@@ -16,7 +16,7 @@ Ecribir en la zona de Palabra clave el nombre del plugin a instalar, en este cas
 
 Clic en "Instalar ahora"
 
-![](https://catedu.gitbooks.io/atrevete-con-wordpress/content/assets/anadir-plugin-2.png)
+![](https://catedu.github.io/atrevete-con-wordpress/assets/anadir-plugin-2.png)
 
 Una vez instalado, hay que ir a la lista de plugins y ActivarloSi tenemos permiso para instalar plugins, podremos Añadir nuevos plugins:
 
@@ -32,5 +32,5 @@ En un Wordpress que depende de un WP MUltisitio: sólo se podrán activar los pl
 
 Para desinstalar un plugin, hay que ir a la lista de plugins `Escritorio > Plugins`. Primero hay que **Desactivar **el Plugin y después **Borrar **el Plugin.
 
-![](https://catedu.gitbooks.io/atrevete-con-wordpress/content/assets/desinstalar-plugin.png)
+![](https://catedu.github.io/atrevete-con-wordpress/assets/desinstalar-plugin.png)
 

@@ -8,7 +8,7 @@ Una vez instalado y activado el plugin, su funcionalidad está accesible desde l
 Acceso en: UpdraftPlus > Estado actual / Respaldar ahora > botón "Respaldar ahora"
 ```
 
-![](https://catedu.gitbooks.io/atrevete-con-wordpress/content/assets/realizar_respaldo.png)
+![](https://catedu.github.io/atrevete-con-wordpress/assets/realizar_respaldo.png)
 
 El respaldo se guarda en el mismo servidor, lo cual tiene desventajas:
 
@@ -23,13 +23,13 @@ Habrá que **Descargar** el respaldo realizado a nuestro PC.
 
 Se descargan 5 archivos diferentes: base de datos, plugins, temas, ficheros subidos y otros.
 
-![](https://catedu.gitbooks.io/atrevete-con-wordpress/content/assets/descargar_respaldo.png)
+![](https://catedu.github.io/atrevete-con-wordpress/assets/descargar_respaldo.png)
 
 ---
 
 #### BORRAR EL RESPALDO DEL SERVIDOR
 
-![](https://catedu.gitbooks.io/atrevete-con-wordpress/content/assets/borrar_respaldo.png)
+![](https://catedu.github.io/atrevete-con-wordpress/assets/borrar_respaldo.png)
 
 ---
 
@@ -37,11 +37,11 @@ Se descargan 5 archivos diferentes: base de datos, plugins, temas, ficheros subi
 
 Habrá que subir los 5 archivos al servidor.
 
-![](https://catedu.gitbooks.io/atrevete-con-wordpress/content/assets/subir_respaldo.png)
+![](https://catedu.github.io/atrevete-con-wordpress/assets/subir_respaldo.png)
 
 ---
 
 #### RESTAURAR RESPALDO
 
-![](https://catedu.gitbooks.io/atrevete-con-wordpress/content/assets/restaurar_respaldo.png)
+![](https://catedu.github.io/atrevete-con-wordpress/assets/restaurar_respaldo.png)
 

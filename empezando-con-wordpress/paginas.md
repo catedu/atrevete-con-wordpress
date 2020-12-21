@@ -10,7 +10,7 @@ Las Páginas se crean de forma prácticamente idéntica que las Entradas. Las op
 * Visibilidad: permite restringir el acceso a la página, poniéndole una contraseña o permitiendo que sólo accedan a la página los usuarios registrados en el Wordpress \(se convierte en una entrada privada\).
 * Fecha de publicación: en caso que deseemos programar que la página sea visible públicamente un día y hora más adelante.
 
-![](https://catedu.gitbooks.io/atrevete-con-wordpress/content/assets/publicar.png)
+![](https://catedu.github.io/atrevete-con-wordpress/assets/publicar.png)
 
 **EJERCICIO: **Crea las siguientes páginas:
 
@@ -22,5 +22,5 @@ Las Páginas se crean de forma prácticamente idéntica que las Entradas. Las op
 
 * Zona de padres: Ponle **contraseña.**
 
-**TRUCO:** En el listado de Páginas se pueden cambiar algunas opciones de la página mediante una "Edición rápida", notar que el contenido no se puede modificar con esta opción. En el listado de Entradas también está disponible esta opción. A continuación se muestra una captura de pantalla de esta opción:![](https://catedu.gitbooks.io/atrevete-con-wordpress/content/assets/pagina-edicion-rapida-1.png)![](https://catedu.gitbooks.io/atrevete-con-wordpress/content/assets/pagina-edicion-rapida-2.png)
+**TRUCO:** En el listado de Páginas se pueden cambiar algunas opciones de la página mediante una "Edición rápida", notar que el contenido no se puede modificar con esta opción. En el listado de Entradas también está disponible esta opción. A continuación se muestra una captura de pantalla de esta opción:![](https://catedu.github.io/atrevete-con-wordpress/assets/pagina-edicion-rapida-1.png)![](https://catedu.github.io/atrevete-con-wordpress/assets/pagina-edicion-rapida-2.png)
 

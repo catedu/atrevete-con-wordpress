@@ -12,7 +12,7 @@ Acceso en: Escritorio > Entradas > Categorías
 
 **EJERCICIO**: crea estas categorías: Dirección, Dpto Matemáticas, Dpto Lengua. Crea también la etiqueta Biblioteca y haz que dependa jerárquicamente de Dpto Lengua.
 
-![](https://catedu.gitbooks.io/atrevete-con-wordpress/content/assets/categorias.png)
+![](https://catedu.github.io/atrevete-con-wordpress/assets/categorias.png)
 
 #### ETIQUETAS
 
@@ -26,5 +26,5 @@ Acceso en: Escritorio > Entradas > Etiquetas
 
 **EJERCICIO**: crea al menos estas etiquetas: Noticias, Extraescolar.
 
-![](https://catedu.gitbooks.io/atrevete-con-wordpress/content/assets/etiquetas.png)
+![](https://catedu.github.io/atrevete-con-wordpress/assets/etiquetas.png)
 

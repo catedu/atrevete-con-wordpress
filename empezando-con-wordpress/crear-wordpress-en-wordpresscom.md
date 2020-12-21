@@ -2,7 +2,7 @@
 
 Si decides crear un Wordpress en wordpress.com, aun sabiendo que no podrás probar los plugins de los que se habla más adelante en el curso, hay que ir a la dirección web [http://wordpress.com](http://wordpress.com) y clic en "Empezar".
 
-![](https://catedu.gitbooks.io/atrevete-con-wordpress/content/assets/wordpress.com-1.png)
+![](https://catedu.github.io/atrevete-con-wordpress/assets/wordpress.com-1.png)
 
 A partir de ahí tenemos un asistente de 5 pasos en el que hay que seleccionar:
 

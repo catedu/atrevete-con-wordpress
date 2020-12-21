@@ -16,7 +16,7 @@ Se pueden añadir imágenes en las Páginas y en las Entradas. Hay varias opcion
 
 **IMPORTANTE:** haciendo clic en la imagen, se muestran unos botones que permiten modificar la alineación de la imagen respecto al texto.
 
-![](https://catedu.gitbooks.io/atrevete-con-wordpress/content/assets/insertar_imagen.png)
+![](https://catedu.github.io/atrevete-con-wordpress/assets/insertar_imagen.png)
 
 ---
 
@@ -24,7 +24,7 @@ Se pueden añadir imágenes en las Páginas y en las Entradas. Hay varias opcion
 
 * Las imágenes se pueden editar en la librería de Medios \(`Escritorio > Medios > Biblioteca > Clic en el lápiz de editar imagen > Editar imagen > escalar/recortar/girar`\)
 
-![](https://catedu.gitbooks.io/atrevete-con-wordpress/content/assets/medios.png)
+![](https://catedu.github.io/atrevete-con-wordpress/assets/medios.png)
 
 **EJERCICIO:** Añade en las entradas que has creado una o varias fotos, dándole al botón "**Añadir objeto**" =&gt; se seleccionan desde tu PC y se guardan en la biblioteca de "**Medios**" de Wordpress.
 
